@@ -40,7 +40,7 @@ Here are some ideas to get you started:
 
 无论你是企业主，希望通过算法释放人力，通过数据洞察机会；
 
-或者是工程师，希望探讨方案实现，均可通过下方[微信](#wechat)联系到我本人。
+或者是工程师，希望探讨方案实现，均可通过邮件 kuhung#foxmail.com 联系。
 
 <!--
 
@@ -96,6 +96,3 @@ Here are some ideas to get you started:
 - 微信公众号、头条号、知乎
   ![social](https://kuhungio.me/images/post/social.jpg)
 
-## <span id="wechat">微信联系</span>
-
-![个人微信](https://kuhungio.me/images/post/wechat.JPG)
