@@ -1,4 +1,3 @@
-### Hi there 👋
 
 <!--
 **kuhung/kuhung** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -24,10 +23,11 @@ Here are some ideas to get you started:
 
 ## 工作经历
 
-- 2018.07~2020.05 [网易游戏](https://game.163.com/)[数据挖掘工程师](https://kuhungio.me/2019/what-is-data-mining/)
+- 2020.05~至今 [米哈游](<https://www.mihayo.com/>) [数据挖掘工程师](https://kuhungio.me/2019/what-is-data-mining/)
+- 2018.07~2020.05 [网易游戏](https://game.163.com/) 数据挖掘工程师
 - 2017.11~2018.05 RussellCloud 建模实习生
-- 2017.07~2017.09 [微众银行](https://webank.com/)数据科学实习生
-- 2017.03~2017.06 [武汉安天](https://www.avlsec.com/zh-hans/home)数据挖掘实习生
+- 2017.07~2017.09 [微众银行](https://webank.com/) 数据科学实习生
+- 2017.03~2017.06 [武汉安天](https://www.avlsec.com/zh-hans/home) 数据挖掘实习生
 
 
 ## 工作方向
@@ -85,7 +85,7 @@ Here are some ideas to get you started:
 | SSD_keras | 简明 SSD 目标检测模型 keras version | [![131](https://img.shields.io/github/stars/kuhung/SSD_keras)](https://github.com/kuhung/SSD_keras) |
 | DateCastle | 图像识别与推荐系统两类 | [![68](https://img.shields.io/github/stars/kuhung/DateCastle)](https://github.com/kuhung/DateCastle) |
 | bert_finetune| 中文语料 Bert finetune | [![51](https://img.shields.io/github/stars/kuhung/bert_finetune)](https://github.com/kuhung/bert_finetune) |
-| flask_vue_ML| 前后端+算法模型的结合 |[![42](https://img.shields.io/github/stars/kuhung/flask_vue_ML)](https://github.com/kuhung/yysGAN) |
+| flask_vue_ML| 前后端+算法模型的结合 |[![42](https://img.shields.io/github/stars/kuhung/flask_vue_ML)](https://github.com/kuhung/flask_vue_ML) |
 | yysGAN | GAN 使用生成对抗网络生成新的图片 | [![33](https://img.shields.io/github/stars/kuhung/yysGAN)](https://github.com/kuhung/yysGAN) |
 | ML-systems-design | 机器学习系统设计 | [![10](https://img.shields.io/github/stars/kuhung/machine-learning-systems-design)](https://github.com/kuhung/machine-learning-systems-design) |
 
@@ -95,4 +95,11 @@ Here are some ideas to get you started:
 ## 社交媒体上关注我
 - 微信公众号、头条号、知乎
   ![social](https://kuhungio.me/images/post/social.jpg)
+  
+## 米哈游内推
+
+- 热招岗位：[https://join.mihoyo.com/](https://jobs.mihoyo.com/#/page/%E7%83%AD%E6%8B%9B%E5%B2%97%E4%BD%8D)
+
+- 扫描二维码，自助内推
+![内推二维码](https://kuhungio.me/images/post/neitui.jpg)
 
