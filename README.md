@@ -19,7 +19,15 @@ Here are some ideas to get you started:
 - 笔名：谷粒 kuhung
 - 毕业院校：[华中科技大学](https://www.hust.edu.cn/) [机械学院](http://mse.hust.edu.cn/)
 
+## 工作理念
 
+- Mission 
+  - 持续交付客户乐意买单的产品或服务
+- Vision 
+  - （待补充）
+- Values
+  - Doing the right things rather than doing things right.
+  - 对世界保持好奇、积极看待事态、批判接收信息
 
 ## 工作经历
 
