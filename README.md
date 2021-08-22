@@ -22,12 +22,14 @@ Here are some ideas to get you started:
 ## 工作理念
 
 - Mission 
-  - 持续交付客户乐意买单的产品或服务
+  - 挖掘数据，提炼信息。发现庞杂数据中的隐含模式，落地放大信息价值。
 - Vision 
-  - （待补充）
+  - 让每个人都享受到算法红利。
 - Values
-  - Doing the right things rather than doing things right.
+  - **Doing the right things rather than doing things right.**
   - 对世界保持好奇、积极看待事态、批判接收信息
+  - 提出高质量的问题并倾听客户真实需求
+  - 持续交付客户乐意买单的产品或服务
 
 ## 工作经历
 
