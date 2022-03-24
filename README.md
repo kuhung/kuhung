@@ -34,8 +34,7 @@
 - Values
   - **Doing the right things rather than doing things right.**
   - Be curious, critical and positive about the world.
-  - 提出高质量的问题并倾听客户真实需求。
-  - 持续交付客户乐意买单的产品或服务。
+
 
 
 
@@ -50,7 +49,9 @@
 - 2017.07~2017.09 微众银行 数据科学实习生
 - 2017.03~2017.06 武汉安天 数据挖掘实习生
 
-
+## 工作理念
+- 提出高质量的问题并倾听客户真实需求。
+- 持续交付客户乐意买单的产品或服务。
 
 ## 早期竞赛成果
 
