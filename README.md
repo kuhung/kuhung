@@ -1,8 +1,103 @@
 # 关于我 (About Me)
 
-关注算法&数据应用。
+Nobody。关注算法&数据应用。
 
-曾担任算法负责人，在全球化用户画像、游戏反作弊、海内外用户增长方向拥有多年经验。
+曾担任算法负责人，在全球化用户画像、反作弊、海内外用户增长方向拥有7年经验。
+
+## 产品与项目
+
+喜欢把 AI、数据和自动化做成可以直接使用的小产品。近一年主要在做量化研究、链上数据、LLM 成本工具、知识图谱、音频与学习工具。
+
+### 量化与金融
+
+- **[QuantFull Visualization](https://v.quantfull.com)**  
+  把 101 个量化因子的关系做成可交互的三维可视化，让原本抽象的因子研究更容易理解和传播。
+- **[QuantFull](https://quantfull.vercel.app)**  
+  量化交易学习资料产品页，提供《101 个量化因子解读》《151 个交易策略》等内容的展示与购买流程。
+- **[K Online](https://k.quantfull.com/)**  
+  在线 K 线预测系统，每天自动更新加密货币和 A 股指数的预测结果，并用图表展示历史走势与未来预测。
+
+### 链上数据
+
+- **[LeeOnChain](https://leeonchain.vercel.app)**  
+  链上数据分析平台，聚合主流资产指标、聪明钱线索、风险地址识别和地址监控能力。
+
+- **[USDT Wallet DeepLook](https://usdt-wallet-deeplook.vercel.app)**  
+  TRON-USDT 钱包调查工作台。输入地址后，可以查看资金流、相关地址、风险信号和关系图谱。
+
+- **[链上数据挖掘 101](https://kuhung.me/2025/data-mining-onchain/)**  
+  面向初学者的链上数据分析教程，从 API 调用、钱包追踪到 DEX 分析，帮助用户入门 Web3 数据分析。
+
+### AI 工具
+
+- **[PageGrok](https://pagegrok.org)**
+  看到什么页面，点一下就能问本地 AI。简单、轻量、智能的端侧浏览器AI插件。
+
+- **[LLM Benchmark](https://benchmark-for-llm.kuhung.me)**  
+  一个像 fast.com 一样简单的 LLM API 性能测试工具，用来比较不同模型服务的速度、稳定性和并发表现。
+
+- **[TrakToken](https://token.kuhung.me)**  
+  LLM API 价格与成本计算工具。帮助用户比较不同模型价格，并判断云端 API 和本地部署哪种更划算。
+
+- **[Phonology AI](https://sheng.kuhung.me/)**  
+  声音科学工具，包含 TTS 排行榜、浏览器端声纹比对、语音 AI 原理和术语解释。
+
+- **[海蓝颜究所](https://beauty.kuhung.me)**  
+  AI 形象分析产品。用户上传照片后，获得发型、配饰、色彩和穿搭相关的分析报告。
+
+### 知识图谱与可视化
+
+- **[Deep Relationship](https://fanren.kuhung.me/)**  
+  把《凡人修仙传》的人物、门派、地点和事件整理成可交互关系图谱，用来探索复杂文本里的叙事网络。
+
+- **[LLM Graph](https://llm-graph.vercel.app)**  
+  大语言模型领域知识图谱，用来观察模型、公司、技术和研究者之间的关系。
+
+- **[RAG in LangGraph](https://github.com/kuhung/RAG-in-LangGraph)**  
+  一个 RAG 入门示例，让用户用较少代码实现 PDF 问答和 ChatPDF 工作流。
+
+### 媒体与创作
+
+- **[Fuji LUT for iPhone](https://fuji-lut.kuhung.me)**  
+  面向 iPhone Log 视频和照片的富士胶片风格 LUT 产品，一键获得胶片感色彩。
+
+- **[MPEG Zip](https://mpeg-zip.vercel.app)**  
+  苹果录音在线压缩，解决iPhone录音超过300M无法导入notebookLM的问题。
+  
+- **[Cover Editor](https://cover-editor.vercel.app)**  
+  播客封面编辑器，支持上传背景图、编辑标题、实时预览，并导出多种比例的封面图。
+
+- **[SubPlayer](https://sub-player-ebon.vercel.app)**  
+  带同步字幕和音频可视化的播客播放器，适合字幕 review、音频学习和内容制作。
+
+- **[Podcast RSS Feed](https://podcast.kuhung.me)**  
+  播客 RSS 托管项目，用于自动发布和更新播客订阅源。
+
+
+### 学习与趣味工具
+
+- **[每日猜猫病](https://mao.waitlistai.cc/)**  
+  猫咪疾病诊断小游戏。用户扮演兽医，通过对话和症状图片，在限定回合内判断猫咪可能的疾病。
+
+- **[Sakura](https://sakura.kuhung.me)**  
+  日语 EPUB 朗读器。支持上传本地 EPUB、日语朗读、阅读进度保存和选词查词。
+
+- **[JLPT Push](https://github.com/kuhung/jlpt-push)**  
+  JLPT 日语语法自动推送工具，每天定时推送语法知识点到 iOS / macOS 设备。
+
+- **[Travel In Hours](https://keda.kuhung.me/)**  
+  出行可达地图。输入地点后，查看 15 分钟到 3 小时内可以到达的区域。
+
+- **[Hang2La](https://h2l.kuhung.me/)**  
+  从夯到拉排行工具。输入地址，即可生成待排行内容。排行区自由拖拽，排行内容自由分享。
+  
+### 二次部署的有趣项目
+- **[Tap](https://tap.kuhung.me/)**  
+  键盘工作者的单词记忆与英文肌肉记忆训练。增加个性化日语内容，精简冗余词典。
+  
+- **[性压抑测试](https://sri.kuhung.me/)**  
+  性压抑度指数计算器。
+  
 
 社交媒体：「谷粒粒」 全网搜索，关注上述账号，便捷了解产品最新动向。
 
